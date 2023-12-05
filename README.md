@@ -7,3 +7,5 @@ The goal starts with the number 1, which corresponds to the size that the snake 
 and so on until number 9. Once a snake eats the goal number 9 it all stops.
 The obstacles move around randomly but only 3 at a time. They have only 3 possible moves. Example: The threads chosen were the number 5, 8 and 16. They will move only 3 times, all at the same time
 to random positions. Once they move those 3 times, they stop, and other 3 thread will be chosen to move and so on.
+
+Resume of 2nd part of the project:
