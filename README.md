@@ -9,3 +9,4 @@ The obstacles move around randomly but only 3 at a time. They have only 3 possib
 to random positions. Once they move those 3 times, they stop, and other 3 thread will be chosen to move and so on.
 
 Resume of 2nd part of the project:
+Make a server so that 2 human players can play with the snakes and compete with each other.
